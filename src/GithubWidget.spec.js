@@ -15,6 +15,8 @@ describe('<GithubWidget />', () => {
   it('should render all sub-components', () => {
     const wrapper = mount(<GithubWidget username="test" />)
 
+    console.log(wrapper.debug())
+
     expect(wrapper.containsAllMatchingElements([
       <UserDetails />,
       <UserStats />,

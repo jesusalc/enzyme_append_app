@@ -45,3 +45,5 @@
 : 1485700515:0;gsb
 : 1485700649:0;npm run test
 : 1485700667:0;added test using enzyme render in UserImage
+: 1485706125:0;npm run test
+: 1485706154:0;added test to show what is inside wrapper?
