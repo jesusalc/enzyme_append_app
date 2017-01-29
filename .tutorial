@@ -38,3 +38,5 @@
 : 1485700209:0;added jsdom and src/GithubWidget.spec.js
 : 1485700238:0;npm i -S sinon
 : 1485700286:0;added sinon support
+: 1485700405:0;npm run test
+: 1485700431:0;added a test for sinon
