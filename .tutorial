@@ -27,3 +27,12 @@
 : 1485698735:0;git pull
 : 1485698757:0;rm -rf .git
 : 1485698759:0;cd ..
+: 1485699522:0;touch src/GithubWidget.spec.js
+: 1485699998:0;npm run test
+: 1485700079:0;npm run simpleTest
+: 1485700120:0;npm run test
+: 1485700148:0;npm list --depth 0 
+: 1485700165:0;npm i -S jsdom
+: 1485700183:0;npm run test
+: 1485700194:0;gsb
+: 1485700209:0;added jsdom and src/GithubWidget.spec.js
