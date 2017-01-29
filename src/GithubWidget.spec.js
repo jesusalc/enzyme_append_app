@@ -2,6 +2,7 @@
 import React, { PropTypes } from 'react'
 import { mount } from 'enzyme'
 import { expect } from 'chai'
+import sinon from 'sinon'
 
 // Component
 import GithubWidget from './GithubWidget'
