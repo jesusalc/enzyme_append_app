@@ -40,3 +40,8 @@
 : 1485700286:0;added sinon support
 : 1485700405:0;npm run test
 : 1485700431:0;added a test for sinon
+: 1485700469:0;cp src/UserImage.js src/UserImage.spec.js
+: 1485700513:0;l
+: 1485700515:0;gsb
+: 1485700649:0;npm run test
+: 1485700667:0;added test using enzyme render in UserImage
