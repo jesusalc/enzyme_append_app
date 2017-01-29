@@ -1,0 +1,29 @@
+: 1485688005:0;l
+: 1485688013:0;npm i -S mocha chai
+: 1485694603:0;npm i -D enzyme react-addons-test-utils
+: 1485694635:0;npm i -D babel-register
+: 1485694803:0;npm run simpleTest
+: 1485694913:0;history
+: 1485694921:0;history --local
+: 1485694926:0;history local
+: 1485694934:0;man history
+: 1485694951:0;builtins
+: 1485694987:0;npm run simpleTest
+: 1485695012:0;touch src/Repositories.spec.js
+: 1485695507:0;npm run test
+: 1485695539:0;npm run simpleTest 
+: 1485698546:0;npm -i -D jsdom
+: 1485698634:0;cd ..
+: 1485698645:0;gsb
+: 1485698651:0;git init 
+: 1485698659:0;git remote add origin https://github.com/jesusalc/enzyme_append_app.git
+: 1485698672:0;git config --local -l user.name "jesusalc"
+: 1485698680:0;git config --local user.name "jesusalc"
+: 1485698688:0;git config --local user.email "jesusalc@gmail.com"
+: 1485698690:0;gsb
+: 1485698700:0;added initial commit
+: 1485698721:0;git pull 
+: 1485698731:0;git branch --set-upstream-to=origin/master master
+: 1485698735:0;git pull
+: 1485698757:0;rm -rf .git
+: 1485698759:0;cd ..
